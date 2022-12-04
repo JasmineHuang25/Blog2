@@ -17,6 +17,7 @@ Colorado governor announced the stay-at-home order effected on 03/26/2020 and ex
 
 Unquestionably, more people are staying at home due to the state order.  We need to dive into the data a little further.  What’s the percentage of people staying at home and how much does it increase?
 
+
 # Colorado
 
 Firstly, here is the definition of 6 different periods of time for Colorado used in this research followed by some  visualization of its population staying at home :
@@ -37,6 +38,8 @@ The degree of increasing in the percentage seems low.  Why?  Do people ignore th
 
 Now we have learned about the population staying at home during pandemic in Colorado.  How about other states?  Because not every state has amended a stay-at-home order, we can’t compare all the states.  From states who have announced stay-at-home orders, I randomly picked out 3 states to compare along with Colorado, and they are Kentucky, New York and Illonis.  Below provides the same visualization representing their population staying at home.
 
+
+
 # Kentucky
 
 The definition of 6 different periods of time for Kentucky used in this research:
@@ -52,6 +55,7 @@ Back to new normal: 2021/01/01 - 2022/02/05
 ![Alt Image text](pics/KY_pop_table.jpg)
 ![Alt Image text](pics/KY_pop_bar.jpg)
 ![Alt Image text](pics/KY_pop_perct_bar.jpg)
+
 
 
 # New York
@@ -71,6 +75,7 @@ Back to new normal: 2021/01/01 - 2022/02/05
 ![Alt Image text](pics/NY_pop_perct_bar.jpg)
 
 
+
 # Illinois
 
 The definition of 6 different periods of time for Illinois used in this research:
@@ -81,11 +86,11 @@ The definition of 6 different periods of time for Illinois used in this research
 5 Reopening up: 2020/08/06 - 2020/12/31
 6 Back to new normal: 2021/01/01 - 2022/02/05
 
-![Alt Image text](pics/IL_pop_scatter.jpg)
-![Alt Image text](pics/IL_pop_line.jpg)
+![Alt Image text](pics/Il_pop_scatter.jpg)
+![Alt Image text](pics/Il_pop_line.jpg)
 ![Alt Image text](pics/IL_pop_table.jpg)
-![Alt Image text](pics/IL_pop_bar.jpg)
-![Alt Image text](pics/IL_pop_perct_bar.jpg)
+![Alt Image text](pics/Il_pop_bar.jpg)
+![Alt Image text](pics/Il_pop_perct_bar.jpg)
 
 
 # Compare 4 states with one-way ANOVA test
