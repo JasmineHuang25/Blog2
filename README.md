@@ -101,7 +101,7 @@ After running the F_oneway test, a fairly small p value is returned (p value = 3
 
 From the table below, we can double check and confirm the conclusion made from F-oneway test as well.  New York has the highest mean as 34.8% and Kenturky has the lowest mean as 25.9%.  The means of 4 different states are NOT equal. 
 
-![Alt Image text](pics/all_ states_pop_mean_std.jpg)
+![Alt Image text]('https://github.com/JasmineHuang25/Blog2/blob/main/pics/all_%20states_pop_mean_std.jpg')
 
 
 
