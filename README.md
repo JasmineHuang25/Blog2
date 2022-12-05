@@ -104,6 +104,7 @@ From the table below, we can double check and confirm the conclusion made from F
 ![Alt Image text](pics/all_ states_pop_mean_std.jpg)
 
 
+
 # Another fun finding! 
 
 While stay-at-home order was in place, people were only allowed to leave for essential businesses or activities such as doctor visits, work, grocery shopping, etc.. Re-jogging the memory, some of the items in grocery stores were out of stock for quite a while.  People had to visit a few different stores to hunt for a few rolls of toilet paper or a bag of flour.  I was so worried about what if I was caught by the police for going too far away from my house.  Now that I have the data available, I could actually calculate the probabilities of some scenarios.  What is the probability that I talk to a random person who has traveled between 10 and 25 miles away from home during stay-at-home order period?  
